@@ -1,5 +1,7 @@
 @file formatString
 
+An elegant way to format a string.
+
 Description:
 These procedures allow you to format a string, eliminating:
 1) spaces and non-graphic chars, present at the beginning of the string;
